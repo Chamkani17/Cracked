@@ -587,7 +587,7 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;97m[+]\033[1;31mHacking Has Been Started\033[1;97m"+o),;sys.stdout.flush();time.sleep(0.05)
 	print "\n\033[1;97m[+]\x1b[1;31mStop Process Press CTRL+Z"
-	print "\033[1;97m•-----------------\033[1;37mBinyamin_jan\033[1;97m-----------------•"
+	print "\033[1;97m•-----------------\033[1;37mSYED RAHIM\033[1;97m-----------------•"
  	
 			
 	def main(arg):
